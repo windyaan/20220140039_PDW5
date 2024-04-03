@@ -1,0 +1,61 @@
+body{
+    background-color: hotpink;
+    background-repeat: no-repeat;
+}
+
+#judul {
+    color :hotpink;
+    margin: 5px;
+    text-align: center;
+    background-color: black;
+    font-size: 20pt;
+}
+
+table{
+    display: inline-block;
+    background-color: rgb(245, 212, 245)
+}
+
+#jdl{
+    color: navy;
+    text-align: center;
+}
+
+#member{
+    width: 100px;
+    display: inline-block;
+}
+
+#mnama{
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer
+    ;
+}
+
+#mlokasi{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mpukul{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mtelp{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
